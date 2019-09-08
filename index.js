@@ -15,3 +15,9 @@ function multiply(a, b){
   number = a * b;
   return number;
 }
+
+var number;
+divide(a, b){
+  number = a / b;
+  return number;
+}
