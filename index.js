@@ -6,6 +6,6 @@ function add(a, b){
 
 var number;
 function subtract(a, b){
-  number = a + b;
+  number = a - b;
   return number;
 }
