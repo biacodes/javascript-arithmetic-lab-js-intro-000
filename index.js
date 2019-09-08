@@ -23,7 +23,7 @@ function divide(a, b) {
 }
 
 var number;
-function inc(a){ 
+function inc(a){
   number = a + 1;
   return number;
 }
